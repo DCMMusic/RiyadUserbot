@@ -1,6 +1,6 @@
 {
-  "name": "Developer Userbot",
-  "description": "Userbot for Developers",
+  "name": "Karabakh Userator",
+  "description": "Userator for karabakh",
   "keywords": [
     "telegram",
     "developer",
@@ -14,7 +14,7 @@
     "pyrogram",
     "telethon"
   ],
-  "repository": "https://github.com/TheCodents/DevloperUserbot",
+  "repository": "https://github.com/DCMMusic/RiyadUserbot",
   "website": "jayantkageri.ml",
   "success_url": "jayantkageri.ml",
   "stack": "heroku-20",

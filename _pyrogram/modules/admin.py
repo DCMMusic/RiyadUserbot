@@ -1,5 +1,5 @@
-# This file is Originally Written By @okay-retard and @jayantkageri on GitHub
-# The Author (Jayant Kageri) just Ported this for Devloper Userbot
+# This file is Originally Written By @okay-retard and @Thagiyevvvv on GitHub
+# The Author (Jayant Kageri) just Ported this for Karabakh Userator
 # (C) 2021 Jayant Kageri
 
 import time

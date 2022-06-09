@@ -1,5 +1,5 @@
-# This file is Originally Written By @xditya on GitHub
-# The Author (Jayant Kageri) just Ported this for Devloper Userbot
+# This file is Originally Written By @thagiyevvvv on GitHub
+# The Author (Jayant Kageri) just Ported this for Karabakh Userbot
 # (C) 2021 Jayant Kageri
 
 import io

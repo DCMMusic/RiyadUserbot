@@ -1,6 +1,6 @@
 # This file is Originally Written By @okay-retard on GitHub
 # The Author (Jayant Kageri) just Ported this for Devloper Userbot
-# (C) 2021 Jayant Kageri
+# (C) 2021 Jayant Kager
 
 import logging
 import sys

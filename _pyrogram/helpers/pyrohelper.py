@@ -1,6 +1,6 @@
 # This file is Originally Written By @okay-retard on GitHub
-# The Author (Jayant Kageri) just Ported this for Devloper Userbot
-# (C) 2021 Jayant Kageri
+# The Author (Riyad) just Ported this for Karabakh Userbot
+# (C) 2021 Riyad
 
 from pyrogram.types import Message, User
 from pyrogram import Client

@@ -1,6 +1,6 @@
-# This file is Originally wirtten by @SpEcHiDe on GitHub
-# The Author (Jayant Kageri) just Ported this for Devloper Userbot
-# (C) 2021 Jayant Kageri
+# This file is Originally wirtten by @thagiyevvvv on GitHub
+# The Author (Riyad) just Ported this for Devloper Userbot
+# (C) 2021 Riyad
 
 import asyncio
 import aiohttp

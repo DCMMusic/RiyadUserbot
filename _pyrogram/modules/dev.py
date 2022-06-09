@@ -1,5 +1,5 @@
-# This file is Originally Written By @okay-retard on GitHub
-# The Author (Jayant Kageri) just Ported this for Devloper Userbot
+# This file is Originally Written By @thagiyevvvv on GitHub
+# The Author (thagiyevvvv) just Ported this for Devloper Userbot
 # (C) 2021 Jayant Kageri
 
 from config import PREFIX

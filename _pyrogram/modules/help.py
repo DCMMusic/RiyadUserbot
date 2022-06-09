@@ -1,5 +1,5 @@
 # This file is Originally Written By @Thagiyevvvv on GitHub
-# The Author (Riyad) just Ported this for Devloper Userbot
+# The Author (Riyadd) just Ported this for karabakh Userator
 # (C) 2021 Riyad
 
 from pyrogram import filters

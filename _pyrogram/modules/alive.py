@@ -1,4 +1,4 @@
-# (C) 2021, Jayant Kageri
+# (C) 2021, Thagiyevvvv
 
 from config import PREFIX
 import asyncio

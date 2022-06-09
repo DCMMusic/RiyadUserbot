@@ -1,6 +1,6 @@
-# This file is Originally Written By @okay-retard on GitHub
-# The Author (Jayant Kageri) just Ported this for Devloper Userbot
-# (C) 2021 Jayant Kageri
+# This file is Originally Written By @Thagiyevvvv on GitHub
+# The Author (Riyad) just Ported this for Devloper Userbot
+# (C) 2021 Riyad
 
 from pyrogram import filters
 from _pyrogram import app, HELP, CMD_HELP
